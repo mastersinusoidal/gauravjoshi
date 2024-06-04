@@ -1,6 +1,6 @@
 # Gaurav Joshi
 
-!Profile Picture
+<img src="./profilepic.png" alt="Profile Picture" width="200"/>
 
 <p align="justify"> 
 I am a Mechanical Engineer with a Bachelor's degree from Sant Longowal Institute of Engineering and Technology (SLIET). I have practical experience in various facets of mechanical engineering, including project management, design optimization, and quality assurance. My work at Mahindra & Mahindra Ltd. as an Assistant Manager involved driving process improvements and new product introductions. I am interested in research related to sustainable materials and the mechanical behavior of materials influenced by environmental and manufacturing factors. </p>
