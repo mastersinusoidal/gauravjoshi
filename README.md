@@ -39,15 +39,6 @@ Our research focuses on
 
   
 # Projects
-<p align="justify"> 
-  * Award 1
-* Award 2
-* Award 3
-
-  </p>
-
-# Under-Review Upcoming Works
-
 !CMU-ConstructNet
 
 ## CMU-ConstructNet: Realtime Worker-Object Unsafe Activity Recognition for 3D Multi-Camera Construction Environments
@@ -55,24 +46,5 @@ By A. Chharia et al.
 
 This work will be included in "IEEE Robotics and Automation Letters (RA-L), 2024 In Prep."
 
-### Abstract
-(Add the abstract or a brief description of the work here.)
 
-### Keywords
-(Add some relevant keywords here.)
-
-### Introduction
-(Add the introduction here.)
-
-### Methodology
-(Add the methodology here.)
-
-### Results
-(Add the results here.)
-
-### Conclusion
-(Add the conclusion here.)
-
-### References
-(Add the references here.)
 
