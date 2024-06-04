@@ -44,7 +44,7 @@ Our research focuses on
     <td valign="top"><img src="./dhm.gif" alt="Project Image" width="1000"/></td>
     <td valign="top">
 
-## Kinematic Simulation of a 2R Planar Robotic Arm: MATLAB Implementation with Denavit-Hartenberg Transformation
+##Kinematic Simulation of a 2R Planar Robotic Arm: MATLAB Implementation with Denavit-Hartenberg Transformation
 
 <details>
   <summary><b>Project Description</b></summary>
