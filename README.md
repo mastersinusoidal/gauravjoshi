@@ -11,4 +11,5 @@ View my Resume here!
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=your-github-url%29)](your-github-url)
 [![Google Scholar Badge](https://img.shields.io/badge/-Google_Scholar-blue?style=flat-square&logo=google-scholar&logoColor=white&link=your-google-scholar-url%29)](your-google-scholar-url)
 [![ResearchGate Badge](https://img.shields.io/badge/-ResearchGate-green?)](your-researchgate-url)
-!ORCID Badge
+[![ORCID Badge](https://img.shields.io/badge/-ResearchGate-green?)](your-researchgate-url)
+
