@@ -31,3 +31,8 @@ Our research focuses on understanding human interaction through various means su
 * Award 1
 * Award 2
 * Award 3
+
+# Publications
+<p align="justify"> 
+Our research focuses on 
+  </p>
