@@ -41,7 +41,7 @@ Our research focuses on
 # Projects
   <table border="0">
   <tr>
-    <td valign="top"><img src="IMAGE_URL" alt="Project Image" width="500"/></td>
+    <td valign="top"><img src="IMAGE_URL" alt="Project Image" width="1000"/></td>
     <td valign="top">
 
 ## Project Title
