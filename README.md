@@ -40,6 +40,7 @@ Our research focuses on
   
 # Projects
 <table>
+  <table border="0">
   <tr>
     <td valign="top"><img src="IMAGE_URL" alt="Project Image" width="500"/></td>
     <td valign="top">
