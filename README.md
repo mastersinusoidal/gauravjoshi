@@ -22,3 +22,10 @@ View my Resume here!
 [![ResearchGate Badge](https://img.shields.io/badge/-ResearchGate-green?)](your-researchgate-url)
 [![ORCID Badge](https://img.shields.io/badge/-ORCID-green?)](https://orcid.org/0000-0002-4542-9690)
 
+# Research Overview
+Our research focuses on understanding human interaction through various means such as body movements, facial expressions, hand gestures, motion, speech, and thoughts. We are developing computational models to sense changes in human behavior. Our goal is to leverage Deep Learning and Computer Vision on a higher level to understand physiological representations of human behavior at neural, physical, and world levels. The relevance of our research lies in its potential applications in engineering intelligent products in the realm of human health.
+
+# Awards & Honors
+* Award 1
+* Award 2
+* Award 3
