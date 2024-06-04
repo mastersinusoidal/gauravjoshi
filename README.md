@@ -60,6 +60,48 @@ Our research focuses on
   </tr>
 </table>
 
+ <table border="0">
+  <tr>
+    <td valign="top"><img src="IMAGE_URL" alt="Project Image" width="500"/></td>
+    <td valign="top">
+
+## Project Title
+(Add your project title here.)
+
+### Project Description
+(Add your project description here.)
+
+### Technologies Used
+(Add the technologies used in your project here.)
+
+### How to Run
+(Add instructions on how to run your project here.)
+
+    </td>
+  </tr>
+</table>
+
+ <table border="0">
+  <tr>
+    <td valign="top"><img src="IMAGE_URL" alt="Project Image" width="500"/></td>
+    <td valign="top">
+
+## Project Title
+(Add your project title here.)
+
+### Project Description
+(Add your project description here.)
+
+### Technologies Used
+(Add the technologies used in your project here.)
+
+### How to Run
+(Add instructions on how to run your project here.)
+
+    </td>
+  </tr>
+</table>
+
 
 
 
