@@ -38,11 +38,21 @@ Our research focuses on
   </p>
 
 # Projects
+<p align="center">
+  <img src="./dhm.gif" width="400" />
+</p>
+<div style="display: flex; justify-content: space-between;">
+<div style="width: 45%;">
 ### Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
 Authors: Xiao Zhang, Xinyi Hu, Huimiao Chen, Alan Yuille, Yaoyao Liu  
 Conference: International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2023
-
+</div>
+<div style="width: 45%;">
+!Your Image
+</div>
+</div>
 PDF | Code | BibTex | Early Accept
+
 
 
  
