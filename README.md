@@ -50,12 +50,6 @@ Our research focuses on
 ### Project Description
 (This project explores the simulation of forward kinematics for a 2R planar robotic arm using MATLAB, integrating the Denavit-Hartenberg (D-H) Transformation method. The D-H method employs a recursive approach to calculate the rotation matrix and displacement vector of the end-effector relative to the base frame. Key steps involve assigning frames according to D-H rules, filling out the D-H parameter table, and incorporating parameters into the homogeneous transformation matrix. Adhering to D-H frame assignment rules ensures accurate representation of the manipulator's kinematic diagram. By modifying the D-H parameter table for 2D planar manipulation, the project emphasizes the practical application of the D-H method. Through MATLAB implementation, including loop-based variable analysis and plot generation, the project showcases the efficacy of the D-H method in accurately determining end effector positions. Additionally, the study highlights the importance of understanding manipulator kinematics in advancing automation across industries.)
 
-### Technologies Used
-(Add the technologies used in your project here.)
-
-### How to Run
-(Add instructions on how to run your project here.)
-
     </td>
   </tr>
 </table>
