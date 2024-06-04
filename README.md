@@ -46,36 +46,33 @@ Our research focuses on
 
   </p>
 
-# Table of Contents
-- Home
-- About
-- Publication
-- Projects
-- Certifications and Honors
-- Teaching Experience
-- Blog Posts
-- Honors and Achievements
+# Under-Review Upcoming Works
 
-## Home
-Content for the Home section goes here.
+!CMU-ConstructNet
 
-## About
-Content for the About section goes here.
+## CMU-ConstructNet: Realtime Worker-Object Unsafe Activity Recognition for 3D Multi-Camera Construction Environments
+By A. Chharia et al.
 
-## Publication
-Content for the Publication section goes here.
+This work will be included in "IEEE Robotics and Automation Letters (RA-L), 2024 In Prep."
 
-## Projects
-Content for the Projects section goes here.
+### Abstract
+(Add the abstract or a brief description of the work here.)
 
-## Certifications and Honors
-Content for the Certifications and Honors section goes here.
+### Keywords
+(Add some relevant keywords here.)
 
-## Teaching Experience
-Content for the Teaching Experience section goes here.
+### Introduction
+(Add the introduction here.)
 
-## Blog Posts
-Content for the Blog Posts section goes here.
+### Methodology
+(Add the methodology here.)
 
-## Honors and Achievements
-Content for the Honors and Achievements section goes here.
+### Results
+(Add the results here.)
+
+### Conclusion
+(Add the conclusion here.)
+
+### References
+(Add the references here.)
+
