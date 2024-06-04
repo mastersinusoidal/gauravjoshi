@@ -36,3 +36,12 @@ Our research focuses on understanding human interaction through various means su
 <p align="justify"> 
 Our research focuses on 
   </p>
+
+  
+# Projects
+<p align="justify"> 
+  * Award 1
+* Award 2
+* Award 3
+
+  </p>
