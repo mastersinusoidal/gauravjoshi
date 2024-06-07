@@ -49,27 +49,70 @@ Conference: International Conference on Medical Image Computing and Computer-Ass
 </div>
 </div>
 
-<details>
-<summary>Code</summary>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Documents</title>
+    <style>
+        .nav {
+            display: flex;
+            justify-content: space-around;
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+        .section {
+            display: none;
+        }
+        .section.active {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <ul class="nav">
+        <li><a href="#code">Code</a></li>
+        <li><a href="#pdf">PDF</a></li>
+        <li><a href="#file">File</a></li>
+        <li><a href="#report">Report</a></li>
+    </ul>
 
-```python
-# This is some sample Python code
-def hello_world():
-    print("Hello, world!")
-```
-</details>
+    <div id="code" class="section active">
+        <!-- Your code goes here -->
+    </div>
 
-<details> <summary>PDF</summary>
+    <div id="pdf" class="section">
+        <!-- Your PDF link goes here -->
+    </div>
 
-Link to PDF </details>
+    <div id="file" class="section">
+        <!-- Your file link goes here -->
+    </div>
 
-<details> <summary>File</summary>
+    <div id="report" class="section">
+        <!-- Your report goes here -->
+    </div>
 
-Link to File </details>
+    <script>
+        var navItems = document.querySelectorAll('.nav a');
+        var sections = document.querySelectorAll('.section');
 
-<details> <summary>Report</summary>
+        navItems.forEach(function(navItem) {
+            navItem.addEventListener('click', function(e) {
+                e.preventDefault();
 
-This is where you can write your report. </details>
+                var targetSection = document.querySelector(this.getAttribute('href'));
+                
+                sections.forEach(function(section) {
+                    section.classList.remove('active');
+                });
+
+                targetSection.classList.add('active');
+            });
+        });
+    </script>
+</body>
+</html>
 
 
 PDF | Code | BibTex | Early Accept
