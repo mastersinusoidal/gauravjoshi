@@ -50,7 +50,6 @@ Conference: International Conference on Medical Image Computing and Computer-Ass
 </div>
 
 
-<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -59,7 +58,7 @@ Conference: International Conference on Medical Image Computing and Computer-Ass
 }
 
 .tab-button {
-  padding: 10px;
+  padding: 0px;
   cursor: pointer;
 }
 </style>
