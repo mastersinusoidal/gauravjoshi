@@ -49,7 +49,7 @@ Conference: International Conference on Medical Image Computing and Computer-Ass
 </div>
 </div>
 
-<!DOCTYPE html>
+
 <html>
 <head>
     <title>My Documents</title>
@@ -78,7 +78,9 @@ Conference: International Conference on Medical Image Computing and Computer-Ass
     </ul>
 
     <div id="code" class="section active">
-        <!-- Your code goes here -->
+        <!-- # This is some sample Python code
+def hello_world():
+    print("Hello, world!") -->
     </div>
 
     <div id="pdf" class="section">
@@ -90,7 +92,7 @@ Conference: International Conference on Medical Image Computing and Computer-Ass
     </div>
 
     <div id="report" class="section">
-        <!-- Your report goes here -->
+        <!-- dfdfdfd -->
     </div>
 
     <script>
