@@ -50,10 +50,18 @@ Conference: International Conference on Medical Image Computing and Computer-Ass
 </div>
 
 
-<details><summary>PDF</summary>```This is your hidden content for PDF.```</details> 
-<details><summary>Code</summary>```This is your hidden content for Code.```</details> 
-<details><summary>BibTex</summary>```This is your hidden content for BibTex.```</details> 
-<details><summary>Early Accept</summary>```This is your hidden content for Early Accept.```</details>
+<button onclick="var x = document.getElementById('pdf'); if (x.style.display === 'none') {x.style.display = 'block';} else {x.style.display = 'none';}">PDF</button>
+<div id="pdf" style="display:none">This is your hidden content for PDF.</div>
+
+<button onclick="var x = document.getElementById('code'); if (x.style.display === 'none') {x.style.display = 'block';} else {x.style.display = 'none';}">Code</button>
+<div id="code" style="display:none">This is your hidden content for Code.</div>
+
+<button onclick="var x = document.getElementById('bibtex'); if (x.style.display === 'none') {x.style.display = 'block';} else {x.style.display = 'none';}">BibTex</button>
+<div id="bibtex" style="display:none">This is your hidden content for BibTex.</div>
+
+<button onclick="var x = document.getElementById('earlyAccept'); if (x.style.display === 'none') {x.style.display = 'block';} else {x.style.display = 'none';}">Early Accept</button>
+<div id="earlyAccept" style="display:none">This is your hidden content for Early Accept.</div>
+
 PDF | Code | BibTex | Early Accept
 
 
