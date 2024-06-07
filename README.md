@@ -50,30 +50,9 @@ Conference: International Conference on Medical Image Computing and Computer-Ass
 </div>
 
 
-<details>
-<summary>PDF</summary>
-
-YOUR_TEXT_HERE
-</details>
-
-<details>
-<summary>Code</summary>
-
-YOUR_TEXT_HERE
-</details>
-
-<details>
-<summary>BibTex</summary>
-
-YOUR_TEXT_HERE
-</details>
-
-<details>
-<summary>Early Accept</summary>
-
-YOUR_TEXT_HERE
-</details>
-
+| PDF | Code | BibTex | Early Accept |
+| --- | --- | --- | --- |
+| <details><summary>Click to expand</summary>YOUR_PDF_TEXT_HERE</details> | <details><summary>Click to expand</summary>YOUR_CODE_TEXT_HERE</details> | <details><summary>Click to expand</summary>YOUR_BIBTEX_TEXT_HERE</details> | <details><summary>Click to expand</summary>YOUR_EARLY_ACCEPT_TEXT_HERE</details> |
 
 PDF | Code | BibTex | Early Accept
 
