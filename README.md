@@ -50,9 +50,67 @@ Conference: International Conference on Medical Image Computing and Computer-Ass
 </div>
 
 
-| PDF | Code | BibTex | Early Accept |
-| --- | --- | --- | --- |
-| <details><summary>Click to expand</summary>YOUR_PDF_TEXT_HERE</details> | <details><summary>Click to expand</summary>YOUR_CODE_TEXT_HERE</details> | <details><summary>Click to expand</summary>YOUR_BIBTEX_TEXT_HERE</details> | <details><summary>Click to expand</summary>YOUR_EARLY_ACCEPT_TEXT_HERE</details> |
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.tab {
+  display: none;
+}
+
+.tab-button {
+  padding: 10px;
+  cursor: pointer;
+}
+</style>
+<script>
+window.onload = function() {
+  var tabButtons = document.querySelectorAll(".tab-button");
+  var tabs = document.querySelectorAll(".tab");
+
+  tabButtons.forEach(function(button, index) {
+    button.addEventListener("click", function() {
+      tabs.forEach(function(tab) {
+        tab.style.display = "none";
+      });
+      tabButtons.forEach(function(button) {
+        button.classList.remove("active");
+      });
+      tabs[index].style.display = "block";
+      button.classList.add("active");
+    });
+  });
+};
+</script>
+</head>
+<body>
+
+<div>
+  <button class="tab-button active">PDF</button>
+  <button class="tab-button">Code</button>
+  <button class="tab-button">BibTex</button>
+  <button class="tab-button">Early Accept</button>
+</div>
+
+<div id="PDF" class="tab" style="display: block;">
+  YOUR_PDF_TEXT_HERE
+</div>
+
+<div id="Code" class="tab">
+  YOUR_CODE_TEXT_HERE
+</div>
+
+<div id="BibTex" class="tab">
+  YOUR_BIBTEX_TEXT_HERE
+</div>
+
+<div id="Early Accept" class="tab">
+  YOUR_EARLY_ACCEPT_TEXT_HERE
+</div>
+
+</body>
+</html>
+
 
 PDF | Code | BibTex | Early Accept
 
