@@ -50,17 +50,30 @@ Conference: International Conference on Medical Image Computing and Computer-Ass
 </div>
 
 
-<button onclick="var x = document.getElementById('pdf'); if (x.style.display === 'none') {x.style.display = 'block';} else {x.style.display = 'none';}">PDF</button>
-<div id="pdf" style="display:none">This is your hidden content for PDF.</div>
+<details>
+<summary>PDF</summary>
 
-<button onclick="var x = document.getElementById('code'); if (x.style.display === 'none') {x.style.display = 'block';} else {x.style.display = 'none';}">Code</button>
-<div id="code" style="display:none">This is your hidden content for Code.</div>
+YOUR_TEXT_HERE
+</details>
 
-<button onclick="var x = document.getElementById('bibtex'); if (x.style.display === 'none') {x.style.display = 'block';} else {x.style.display = 'none';}">BibTex</button>
-<div id="bibtex" style="display:none">This is your hidden content for BibTex.</div>
+<details>
+<summary>Code</summary>
 
-<button onclick="var x = document.getElementById('earlyAccept'); if (x.style.display === 'none') {x.style.display = 'block';} else {x.style.display = 'none';}">Early Accept</button>
-<div id="earlyAccept" style="display:none">This is your hidden content for Early Accept.</div>
+YOUR_TEXT_HERE
+</details>
+
+<details>
+<summary>BibTex</summary>
+
+YOUR_TEXT_HERE
+</details>
+
+<details>
+<summary>Early Accept</summary>
+
+YOUR_TEXT_HERE
+</details>
+
 
 PDF | Code | BibTex | Early Accept
 
