@@ -52,7 +52,7 @@ Conference: International Conference on Medical Image Computing and Computer-Ass
 
 <details>
   <summary>PDF | Code | BibTex | Early Accept</summary>
-skfmskdfslkdfmls
+`skfmskdfslkdfmls`
   </details>
 PDF | Code | BibTex | Early Accept
 
