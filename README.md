@@ -49,66 +49,27 @@ Conference: International Conference on Medical Image Computing and Computer-Ass
 </div>
 </div>
 
+<details>
+<summary>Code</summary>
 
-<html>
-<head>
-<style>
-.tab {
-  display: none;
-}
+```python
+# This is some sample Python code
+def hello_world():
+    print("Hello, world!")
+```
+</details>
 
-.tab-button {
-  padding: 0px;
-  cursor: pointer;
-}
-</style>
-<script>
-window.onload = function() {
-  var tabButtons = document.querySelectorAll(".tab-button");
-  var tabs = document.querySelectorAll(".tab");
+<details> <summary>PDF</summary>
 
-  tabButtons.forEach(function(button, index) {
-    button.addEventListener("click", function() {
-      tabs.forEach(function(tab) {
-        tab.style.display = "none";
-      });
-      tabButtons.forEach(function(button) {
-        button.classList.remove("active");
-      });
-      tabs[index].style.display = "block";
-      button.classList.add("active");
-    });
-  });
-};
-</script>
-</head>
-<body>
+Link to PDF </details>
 
-<div>
-  <button class="tab-button active">PDF</button>
-  <button class="tab-button">Code</button>
-  <button class="tab-button">BibTex</button>
-  <button class="tab-button">Early Accept</button>
-</div>
+<details> <summary>File</summary>
 
-<div id="PDF" class="tab" style="display: block;">
-  YOUR_PDF_TEXT_HERE
-</div>
+Link to File </details>
 
-<div id="Code" class="tab">
-  YOUR_CODE_TEXT_HERE
-</div>
+<details> <summary>Report</summary>
 
-<div id="BibTex" class="tab">
-  YOUR_BIBTEX_TEXT_HERE
-</div>
-
-<div id="Early Accept" class="tab">
-  YOUR_EARLY_ACCEPT_TEXT_HERE
-</div>
-
-</body>
-</html>
+This is where you can write your report. </details>
 
 
 PDF | Code | BibTex | Early Accept
