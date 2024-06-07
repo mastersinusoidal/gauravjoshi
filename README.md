@@ -50,14 +50,10 @@ Conference: International Conference on Medical Image Computing and Computer-Ass
 </div>
 
 
-<details>
-  <summary>PDF</summary>
-`skfmskdfslkdfmls`
-  </details>
-  <details>
-  <summary>code</summary>
-`skfmskdfslkdfmls`
-  </details>
+<details><summary>PDF</summary>```This is your hidden content for PDF.```</details> 
+<details><summary>Code</summary>```This is your hidden content for Code.```</details> 
+<details><summary>BibTex</summary>```This is your hidden content for BibTex.```</details> 
+<details><summary>Early Accept</summary>```This is your hidden content for Early Accept.```</details>
 PDF | Code | BibTex | Early Accept
 
 
