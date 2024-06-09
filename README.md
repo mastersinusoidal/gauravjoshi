@@ -45,7 +45,7 @@ Authors: Xiao Zhang, Xinyi Hu, Huimiao Chen, Alan Yuille, Yaoyao Liu
 Conference: International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2023
 </div>
 <div style="width: 45%;">
- <img src="./dhm.gif" width="100" />
+ <img src="./dhm.gif" width="200" />
 </div>
 </div>
 
