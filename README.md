@@ -54,13 +54,33 @@ Conference: International Conference on Medical Image Computing and Computer-Ass
 
 PDF | Code | BibTex | Early Accept
 
-title: Research
-permalink: /research/
----
+# Project Title
 
-## Project 1
+## Navigation
 
-Description of project 1.
+<div style="display: flex; justify-content: space-around; margin: 20px;">
+    <div>
+        <details>
+            <summary>PDF</summary>
+            <p>PDF file description or text goes here.</p>
+        </details>
+    </div>
+    <div>
+        <a href="path/to/codefile" target="_blank">Code</a>
+    </div>
+    <div>
+        <details>
+            <summary>BibTex</summary>
+            <p>BibTex citation text goes here.</p>
+        </details>
+    </div>
+    <div>
+        <details>
+            <summary>Early Accept</summary>
+            <p>Early acceptance text goes here.</p>
+        </details>
+    </div>
+</div>
 
 
 
