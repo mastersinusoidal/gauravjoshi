@@ -45,76 +45,11 @@ Authors: Xiao Zhang, Xinyi Hu, Huimiao Chen, Alan Yuille, Yaoyao Liu
 Conference: International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2023
 </div>
 <div style="width: 45%;">
- <img src="./dhm.gif" width="400" />
+ <img src="./dhm.gif" width="100" />
 </div>
 </div>
 
 
-<html>
-<head>
-    <title>My Documents</title>
-    <style>
-        .nav {
-            display: flex;
-            justify-content: space-around;
-            list-style-type: none;
-            margin: 0;
-            padding: 0;
-        }
-        .section {
-            display: none;
-        }
-        .section.active {
-            display: block;
-        }
-    </style>
-</head>
-<body>
-    <ul class="nav">
-        <li><a href="#code">Code</a></li>
-        <li><a href="#pdf">PDF</a></li>
-        <li><a href="#file">File</a></li>
-        <li><a href="#report">Report</a></li>
-    </ul>
-
-    <div id="code" class="section active">
-        <!-- # This is some sample Python code
-def hello_world():
-    print("Hello, world!") -->
-    </div>
-
-    <div id="pdf" class="section">
-        <!-- Your PDF link goes here -->
-    </div>
-
-    <div id="file" class="section">
-        <!-- Your file link goes here -->
-    </div>
-
-    <div id="report" class="section">
-        <!-- dfdfdfd -->
-    </div>
-
-    <script>
-        var navItems = document.querySelectorAll('.nav a');
-        var sections = document.querySelectorAll('.section');
-
-        navItems.forEach(function(navItem) {
-            navItem.addEventListener('click', function(e) {
-                e.preventDefault();
-
-                var targetSection = document.querySelector(this.getAttribute('href'));
-                
-                sections.forEach(function(section) {
-                    section.classList.remove('active');
-                });
-
-                targetSection.classList.add('active');
-            });
-        });
-    </script>
-</body>
-</html>
 
 
 PDF | Code | BibTex | Early Accept
