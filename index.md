@@ -4,6 +4,9 @@ title: Gaurav Joshi's Academic Website
 ---
 
 # {{ page.title }}
+<p align="center">
+  <img src="./profilepic.png" alt="Profile Picture" width="200"/>
+  <\p>
 
 ## About Me
 
