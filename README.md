@@ -54,30 +54,13 @@ Conference: International Conference on Medical Image Computing and Computer-Ass
 
 PDF | Code | BibTex | Early Accept
 
-# Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
+title: Research
+permalink: /research/
+---
 
-!Graphical Abstract
+## Project 1
 
-This repository contains the code and additional resources for our paper presented at MICCAI 2023.
-
-## Authors
-- Xixiao Zhang
-- Xinyi Li
-- Huimao Chen
-- Alan Yuille
-- Yaoyao Liu* (Corresponding Author)
-- Tongwei Zhou* (Corresponding Author)
-
-## Conference
-International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2023.
-
-## Resources
-!PDF
-!Code
-!BibTex
-!Early Accept
-
-Please cite our work if you find it useful in your research.
+Description of project 1.
 
 
 
